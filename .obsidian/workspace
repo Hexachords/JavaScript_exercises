@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notes/Notes.md",
+            "file": "01-javascript_fundamentals/01-Fundamentals.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 165
   },
   "right": {
     "id": "6b557fcc61eae8bf",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Notes.md",
+                "file": "01-javascript_fundamentals/01-Fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,8 @@
   },
   "active": "361fe4c2b186cbd0",
   "lastOpenFiles": [
-    "Notes/Notes.md",
-    "Test1.md",
-    "README.md"
+    "01-javascript_fundamentals/01-Fundamentals.md",
+    "README.md",
+    "Test1.md"
   ]
 }
