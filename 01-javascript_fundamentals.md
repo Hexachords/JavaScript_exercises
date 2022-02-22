@@ -79,3 +79,13 @@ console.log(FCC, fact);
 
 Add Two Numbers with JavaScript
 ``` var addNums = 6+6; ```
+
+Subtract One Number from Another with JavaScript
+``` const subNums = 17 - 9;```
+
+Multiply Two Numbers with JavaScript
+``` var product = 8 * 9; ```
+
+Divide One Number by Another with JavaScript
+
+``` const divideNum = 66 / 11;  ```
