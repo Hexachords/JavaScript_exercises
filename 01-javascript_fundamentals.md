@@ -89,3 +89,10 @@ Multiply Two Numbers with JavaScript
 Divide One Number by Another with JavaScript
 
 ``` const divideNum = 66 / 11;  ```
+
+Increment a Number with JavaScript
+``` 
+i++ ;
+// or 
+i = i +1;
+```
