@@ -96,3 +96,10 @@ i++ ;
 // or 
 i = i +1;
 ```
+
+Decrement a Number with JavaScript
+```
+i--;
+// or 
+i = i - 1;
+```
