@@ -149,3 +149,8 @@ Addition +=
 Subtraction -=
 Multiplication *=
 Division /=
+
+Escaping Literal Quotes in Strings
+```
+const sampleStr = "Alan said, \"Peter is learning JavaScript\".";
+```
