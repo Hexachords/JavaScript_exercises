@@ -154,3 +154,6 @@ Escaping Literal Quotes in Strings
 ```
 const sampleStr = "Alan said, \"Peter is learning JavaScript\".";
 ```
+
+Escape Sequences in Strings
+![[Pasted image 20220224154437.png]]
