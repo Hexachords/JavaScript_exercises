@@ -2,7 +2,7 @@ Fundamental notes from the FreeCodeCampJS course
 
 Comments in JS
 
-```
+```javascript
 // inline comments
 
 /*
@@ -17,7 +17,7 @@ Declaring variables in JS
 "_JavaScript provides eight different data types which are `undefined`, `null`, `boolean`, `string`, `symbol`, `bigint`, `number`, and `object`._"
 
 
-```
+```javascript
 var example;
 var catdog21;
 var hiworld;
@@ -25,7 +25,7 @@ var hiworld;
 
 Storing values in the Variables 
 
-```
+```javascript
 var num;
 num = 66;
 
@@ -34,7 +34,7 @@ num = 66;
 Declare a Read-Only Variable with the const Keyword
 Assigning the Value of One Variable to Another
 
-```
+```javascript
 var num1;
 num1 = 6;
 var num2;
@@ -43,19 +43,19 @@ num2 = num1;
 ```
 
 Initializing Variables with the Assignment Operator
-```
+```javascript
 var num = 6;
 ```
 
 Declare String Variables
-```
+```javascript
 var randomString = "blehbelsb";
 ```
 
 Explore Differences Between the var and let Keywords
 "_let allows you to declare variables that are limited to the scope of a block statement, or expression on which it is used_"
 
-```
+```javascript
 let newVar = 89;
 ```
 
@@ -64,7 +64,7 @@ _`const` has all the awesome features that `let` has, with the added bonus that 
 
 _Use `let` when you want the variable to change, and `const` when you want the variable to remain constant._
 
-```
+```javascript
 const FCC = "freeCodeCamp"; 
 
 let fact = "is cool!"; 
@@ -75,42 +75,48 @@ console.log(FCC, fact);
 
 ```
 
-``` output:  freeCodeCamp is awesome!```
+```javascript 
+// output:  freeCodeCamp is awesome! 
+	```
 
 Add Two Numbers with JavaScript
-``` var addNums = 6+6; ```
+```javascript
+var addNums = 6+6; ```
 
 Subtract One Number from Another with JavaScript
-``` const subNums = 17 - 9;```
+```javascript
+const subNums = 17 - 9;```
 
 Multiply Two Numbers with JavaScript
-``` var product = 8 * 9; ```
+```javascript
+var product = 8 * 9; ```
 
 Divide One Number by Another with JavaScript
 
-``` const divideNum = 66 / 11;  ```
+```javascript 
+const divideNum = 66 / 11;  ```
 
 Increment a Number with JavaScript
-``` 
+```javascript
 i++ ;
 // or 
 i = i +1;
 ```
 
 Decrement a Number with JavaScript
-```
+```javascript
 i--;
 // or 
 i = i - 1;
 ```
 
 Finding a Remainder in JavaScript
-```
+```javascript
 const remainder = 11 % 3;
 ```
 
 Compound Assignment With Augmented Addition
-```
+```javascript
 let a = 3;
 
 let b = 17;
@@ -126,7 +132,7 @@ c += 7;
 ```
 
 Compound Assignment With Augmented Subtraction
-```
+```javascript
 let a = 11;
 
 let b = 9;
@@ -151,7 +157,7 @@ Multiplication *=
 Division /=
 
 Escaping Literal Quotes in Strings
-```
+```javascript
 const sampleStr = "Alan said, \"Peter is learning JavaScript\".";
 ```
 
