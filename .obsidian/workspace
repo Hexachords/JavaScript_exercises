@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "solutions/005-solution.md",
+            "file": "javascript_fundamentals.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "solutions/005-solution.md",
+                "file": "javascript_fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "361fe4c2b186cbd0",
   "lastOpenFiles": [
+    "javascript_fundamentals.md",
+    "006-solution.md",
+    "006-Find the Perimeter of a Rectangle.md",
     "solutions/005-solution.md",
     "005-Convert Age to Days.md",
     "solutions/004-solution.md",
     "004-Convert Minutes into Seconds.md",
     "004-Write a function that takes an integer minutes and converts it to seconds..md",
     "images/Pasted image 20220224154437.png",
-    "javascript_fundamentals.md",
-    "solutions/003_solution.md",
-    "003-Return the Sum of Two Numbers.md",
-    "README.md"
+    "solutions/003_solution.md"
   ]
 }
