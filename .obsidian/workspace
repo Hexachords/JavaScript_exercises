@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01-javascript_fundamentals.md",
+            "file": "solutions/005-solution.md",
             "mode": "source"
           }
         }
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243,
-    "collapsed": true
+    "width": 243
   },
   "right": {
     "id": "6b557fcc61eae8bf",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-javascript_fundamentals.md",
+                "file": "solutions/005-solution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +88,15 @@
   },
   "active": "361fe4c2b186cbd0",
   "lastOpenFiles": [
-    "01-javascript_fundamentals.md",
-    "README.md",
-    "Test1.md"
+    "solutions/005-solution.md",
+    "005-Convert Age to Days.md",
+    "solutions/004-solution.md",
+    "004-Convert Minutes into Seconds.md",
+    "004-Write a function that takes an integer minutes and converts it to seconds..md",
+    "images/Pasted image 20220224154437.png",
+    "javascript_fundamentals.md",
+    "solutions/003_solution.md",
+    "003-Return the Sum of Two Numbers.md",
+    "README.md"
   ]
 }
