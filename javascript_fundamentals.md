@@ -169,3 +169,10 @@ Printing to Console
 console.log('Hello World');
 
 ```
+
+
+```javascript
+parseInt();  //
+parseFloat();//
+String();//
+```
